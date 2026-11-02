@@ -1,0 +1,17 @@
+title: Career Search Advice
+description: A practical workflow for career inventories, company research, and targeted resumes.
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+  collections: true
+header_pages:
+  - docs/index.md
+  - docs/interview-process.md
+  - docs/master-inventory.md
+  - docs/github-setup.md
+  - docs/opportunity-evaluation.md
+  - docs/resume-generation.md
+  - docs/example.md

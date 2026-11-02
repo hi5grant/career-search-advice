@@ -2,11 +2,17 @@
 
 Treat the first stage as an interview, not a resume-writing session. The objective is to recover details that a short resume cannot hold.
 
-## Start with source material
+## Start with a resume
 
-Provide existing resumes, performance reviews you are permitted to use, project summaries, role descriptions, and personal notes. Remove confidential, customer, proprietary, or regulated information first. Do not upload employer secrets.
+**Give your model of choice an existing resume before asking it to build your career inventory.** It is the fastest way to give the model a useful starting picture of your work history, role progression, technologies, projects, and the language you've used to describe your experience.
 
-Treat documents as clues, not unquestionable facts. Old resumes may contain inflated team metrics or outdated technologies.
+A resume is a starting point, not the source of truth. It is usually incomplete, compressed for a particular job, and may be years out of date. Use it to orient the interview—not to limit what gets captured.
+
+A useful first instruction is:
+
+> Read this resume as background. Use it to establish my timeline and identify the roles, projects, technologies, and claims we should explore. Interview me to fill gaps and verify details. Do not assume the resume is complete or that every claim is still accurate.
+
+If you have several versions, provide the most complete and recent one first. Older resumes can help recover earlier roles or projects that disappeared from newer versions. You can also provide permitted project notes, role descriptions, and performance-review excerpts. Remove confidential, customer, proprietary, or regulated information first. Do not upload employer secrets.
 
 ## Interview one role or project at a time
 

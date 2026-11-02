@@ -4,9 +4,15 @@ Most people find a job posting and immediately rewrite their resume. That starts
 
 This system creates a reusable source of truth first, then uses it to evaluate roles and produce tailored application materials.
 
+## Start with what you already have
+
+Before the interview process, give your AI model an existing resume. It gives the model a baseline for your career timeline, titles, skills, projects, and the claims you've made before. That context helps it ask better questions instead of starting from a blank page.
+
+Don't treat the resume as complete or automatically accurate. It is a compressed snapshot, often tailored to an old opportunity. The goal is to expand and verify it into a much richer master inventory—not simply reformat it.
+
 ## The seven stages
 
-1. [Interview yourself](interview-process.md): reconstruct projects and responsibilities with targeted questions.
+1. [Interview yourself](interview-process.md): start with your resume, then reconstruct roles and projects through targeted questions.
 2. [Build the master inventory](master-inventory.md): preserve the full story, technical detail, scope, and evidence.
 3. [Set up GitHub](github-setup.md): store the private working record and reusable prompts.
 4. [Evaluate opportunities](opportunity-evaluation.md): research the company and role before investing in an application.
@@ -16,7 +22,7 @@ This system creates a reusable source of truth first, then uses it to evaluate r
 
 ## Why this order works
 
-If you start with the resume, you tend to forget older work, compress distinct projects, and overemphasize whatever is easiest to remember. The inventory gives you a larger evidence pool. Each application selects the most relevant subset without changing the underlying facts.
+If you start with the resume alone, you tend to forget older work, compress distinct projects, and overemphasize whatever is easiest to remember. The inventory gives you a larger evidence pool. Each application selects the most relevant subset without changing the underlying facts.
 
 ## What AI should and should not do
 

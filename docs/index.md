@@ -1,0 +1,30 @@
+# The Career Search System
+
+Most people find a job posting and immediately rewrite their resume. That starts too late. A resume is a short marketing document, not a reliable place to store a decade of career evidence.
+
+This system creates a reusable source of truth first, then uses it to evaluate roles and produce tailored application materials.
+
+## The seven stages
+
+1. [Interview yourself](interview-process.md): reconstruct projects and responsibilities with targeted questions.
+2. [Build the master inventory](master-inventory.md): preserve the full story, technical detail, scope, and evidence.
+3. [Set up GitHub](github-setup.md): store the private working record and reusable prompts.
+4. [Evaluate opportunities](opportunity-evaluation.md): research the company and role before investing in an application.
+5. [Generate the resume](resume-generation.md): select evidence that supports the role.
+6. **Review:** remove unsupported claims and make every bullet interview-defensible.
+7. **Repeat:** update the inventory as new details emerge; do not rebuild from scratch.
+
+## Why this order works
+
+If you start with the resume, you tend to forget older work, compress distinct projects, and overemphasize whatever is easiest to remember. The inventory gives you a larger evidence pool. Each application selects the most relevant subset without changing the underlying facts.
+
+## What AI should and should not do
+
+AI can ask structured follow-up questions, organize notes, identify missing evidence, research public information, compare requirements, and draft. It cannot know whether a metric is true unless you provide evidence. You remain responsible for validating every claim.
+
+## Two repositories, two purposes
+
+- **Private career-tools repository:** your inventory, original resumes, job postings, company research, and generated resumes.
+- **Public playbook repository:** this guide, generic examples, and reusable templates.
+
+Never put private candidate data in the public repository.

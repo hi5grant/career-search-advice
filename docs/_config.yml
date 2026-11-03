@@ -3,7 +3,7 @@ description: A practical workflow for career inventories, company research, and 
 remote_theme: pages-themes/midnight@v0.2.0
 markdown: kramdown
 plugins:
-  - jekyll-remote-theme
+  - beautiful-jekyll
   - jekyll-seo-tag
 relative_links:
   enabled: true

@@ -1,3 +1,7 @@
+---
+title: "GitHub Setup"
+---
+
 # GitHub Setup and ChatGPT Integration
 
 GitHub provides version history, durable Markdown files, reviewable changes, and a workspace for repeated job-search tasks.

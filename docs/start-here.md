@@ -7,9 +7,24 @@ This prompt turns the seven-stage process into a guided working session. Paste i
 
 **Before you begin:** have your latest resume available if you can. Older resumes, LinkedIn content, performance reviews, project notes, and job descriptions can help too. Your resume is a starting point, not the complete record.
 
-Copy the prompt below into your AI assistant:
+Copy the prompt below into your AI assistant. The outlined panel keeps the complete prompt together so it is easy to select and copy.
 
----
+<style>
+  .career-prompt-card {
+    border: 1px solid var(--bs-border-color, #ced4da);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 1.25rem 0 2rem;
+    background: var(--bs-card-bg, rgba(127, 127, 127, .035));
+  }
+  .career-prompt-card > :first-child { margin-top: 0; }
+  .career-prompt-card > :last-child { margin-bottom: 0; }
+  @media (max-width: 600px) {
+    .career-prompt-card { padding: 1rem; margin-left: -.35rem; margin-right: -.35rem; }
+  }
+</style>
+
+<div class="career-prompt-card" markdown="1">
 
 ## Career Search Kickoff — Guided Seven-Stage Process
 
@@ -122,7 +137,7 @@ Begin with **Stage 1: Interview yourself**.
 
 Ask me to share my latest resume or paste its contents. If I do not have one, start with a focused question about my most recent role. Do not ask me to complete all seven stages at once.
 
----
+</div>
 
 ## A practical note
 

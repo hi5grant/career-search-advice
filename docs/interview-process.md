@@ -1,3 +1,7 @@
+---
+title: "Interview Process"
+---
+
 # The Career Interview Process
 
 Treat the first stage as an interview, not a resume-writing session. The objective is to recover details that a short resume cannot hold.

@@ -4,18 +4,6 @@ title: Career Search Advice
 
 Finding a job gets harder every year. Put AI to work on the parts that consume the most time: make sense of your experience, research opportunities, and build a resume that speaks to each role. A better-targeted resume gives the right experience a better chance to be seen.
 
-<p align="right"><em>made in less than an hour by Grant</em></p>
-
----
-
-<blockquote>
-  <p><em>“I see surprisingly well for someone with such terrible eyesight.”</em></p>
-  <p>A little perspective can reveal what was there all along.</p>
-  <p align="right">— Grant Lindsey</p>
-</blockquote>
-
----
-
 ## The Career Search System
 
 Most people find a job posting and immediately rewrite their resume. That starts too late. A resume is a short marketing document, not a reliable place to store a decade of career evidence.
@@ -46,9 +34,14 @@ If you start with the resume alone, you tend to forget older work, compress dist
 
 AI can ask structured follow-up questions, organize notes, identify missing evidence, research public information, compare requirements, and draft. It cannot know whether a metric is true unless you provide evidence. You remain responsible for validating every claim.
 
-## Two repositories, two purposes
 
-- **Private career-tools repository:** your inventory, original resumes, job postings, company research, and generated resumes.
-- **Public playbook repository:** this guide, generic examples, and reusable templates.
 
-Never put private candidate data in the public repository.
+---
+
+<blockquote>
+  <p align="right"><em>“I see surprisingly well for someone with such terrible eyesight.”</em></p>
+</blockquote>
+
+---
+
+<p align="right"><em>made in less than an hour by Grant</em></p>

@@ -1,3 +1,7 @@
+---
+title: "Worked Example"
+---
+
 # Worked Example: A Fictional Candidate and Staff Engineer Role
 
 This example is illustrative. The candidate, company details, and experience are fictional.

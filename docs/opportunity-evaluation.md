@@ -1,3 +1,7 @@
+---
+title: "Opportunity Evaluation"
+---
+
 # Evaluating a Company and a Role
 
 Do not evaluate a job posting in isolation. A compelling title at a fragile company—or a stable company with a poorly matched role—may not be a good move.

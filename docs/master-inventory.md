@@ -1,3 +1,7 @@
+---
+title: "Master Career Inventory"
+---
+
 # The Master Career Inventory
 
 The master inventory is the canonical, comprehensive record of your career. It is not intended to be sent to employers.

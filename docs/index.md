@@ -69,6 +69,10 @@ Before the interview process, give your AI model an existing resume. It gives th
 
 Don't treat the resume as complete or automatically accurate. It is a compressed snapshot, often tailored to an old opportunity. The goal is to expand and verify it into a much richer master inventory—not simply reformat it.
 
+## Start the process
+
+Want an AI assistant to guide you through the entire workflow? Copy the [seven-stage kickoff prompt](start-here.md) into a new conversation. It starts with your existing resume, works through each stage with you, and creates portable checkpoints so you can continue across sessions.
+
 ## The seven stages
 
 1. [Interview yourself](interview-process.md): start with your resume, then reconstruct roles and projects through targeted questions.

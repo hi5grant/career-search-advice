@@ -10,7 +10,7 @@ GitHub provides version history, durable Markdown files, reviewable changes, and
 
 ### Private career workspace
 
-Create a private repository such as `career-tools`. Store your master inventory, original resumes, supporting notes, company and job-posting research, role assessments, tailored resumes, and reusable prompts here.
+Create a private repository such as `career-tools`. Store your master inventory, original resumes, company and job-posting research, role assessments, tailored resumes, application notes, and reusable prompts here.
 
 Keep it private. A public repository is not appropriate for detailed career history, contact details, or application records.
 
@@ -32,9 +32,11 @@ A GitHub integration may expose repository contents and, depending on permission
 
 ## Repository instructions
 
-Put an `AGENTS.md` at the root of the private repository. Explain which file is canonical, which files must be read before generating a resume, how to create company folders, accuracy and confidentiality rules, and whether changes require pull requests.
+Put an `AGENTS.md` at the root of the private repository. Explain which file is canonical, which files must be read before generating a resume, how to create company and opportunity folders, accuracy and confidentiality rules, and whether changes require pull requests.
 
-## Example private workspace
+## Recommended private workspace
+
+Use one Title Case company folder per employer or target company. Keep research that applies to the company at its root, and create a separate opportunity folder for every distinct job posting or application.
 
     career-tools/
     ├── AGENTS.md
@@ -42,17 +44,42 @@ Put an `AGENTS.md` at the root of the private repository. Explain which file is 
     ├── career/
     │   └── master-career-inventory.md
     ├── resume-sources/
-    ├── generated-resumes/
+    │   └── original resumes...
     ├── companies/
-    │   └── example-company/
-    │       ├── company-research.md
-    │       ├── job-posting.md
-    │       ├── match.md
-    │       └── recruiters.md
+    │   ├── Home Depot/
+    │   │   ├── company-research.md
+    │   │   ├── recruiters.md
+    │   │   ├── base-resumes/
+    │   │   └── job-roles/
+    │   │       └── 2026-11 - Staff Engineer/
+    │   │           ├── job-posting.md
+    │   │           ├── match.md
+    │   │           ├── application-notes.md
+    │   │           └── resume.md
+    │   ├── Monarch Money/
+    │   │   ├── company-research.md
+    │   │   ├── recruiters.md
+    │   │   ├── base-resumes/
+    │   │   └── job-roles/
+    │   │       ├── 2026-11 - Future Engineering Opportunities/
+    │   │       └── 2026-12 - Staff Software Engineer/
+    │   └── USAA/
+    │       ├── base-resumes/
+    │       └── job-roles/
     └── prompts/
         ├── inventory-interview.md
-        ├── full-opportunity-search.md
+        ├── full-company-and-role-search.md
         └── resume-generation.md
+
+### Folder rules
+
+- Company folder names use recognizable Title Case with spaces (for example, `Home Depot`, `Hub Spot`, `Monarch Money`, `USAA`). Do not use lowercase company slugs.
+- `company-research.md` and `recruiters.md` are shared across opportunities at that company.
+- `base-resumes/` holds reusable company-level resume starting points, optionally grouped by role family or positioning.
+- Every distinct posting/application gets its own folder under `job-roles/`. A readable name such as `YYYY-MM - Role Title` keeps repeated roles separate.
+- Keep the posting, role match, application status/notes, and final tailored resume together in that opportunity folder. Never overwrite one role's materials with another role's.
+- A general talent pipeline application still gets its own opportunity folder, clearly labeled as a pipeline rather than a confirmed requisition.
+- Preserve source resumes unchanged under `resume-sources/`; they are evidence, not the canonical inventory or final tailored resumes.
 
 ## What GitHub MCP means
 

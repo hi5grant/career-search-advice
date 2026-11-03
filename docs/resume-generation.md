@@ -1,3 +1,7 @@
+---
+title: "Resume Generation"
+---
+
 # Generating a Targeted Resume
 
 A targeted resume should be selective, not fictional. The master inventory remains unchanged; the resume selects evidence that best supports the role.

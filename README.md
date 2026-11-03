@@ -34,6 +34,7 @@ This repository is the public playbook. Your personal career history belongs in 
 3. Connect GitHub to ChatGPT and authorize access only to the repository you need.
 4. Start with [the inventory interview prompt](templates/inventory-interview.md).
 5. Keep the inventory factual and comprehensive; tailor resumes only after checking claims.
+6. Organize applications under one Title Case company folder per employer, with a separate `job-roles/YYYY-MM - Role Title/` folder for every distinct posting. See the [recommended workspace layout](docs/github-setup.md).
 
 ## Core principles
 

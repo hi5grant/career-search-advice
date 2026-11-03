@@ -1,8 +1,9 @@
 title: Career Search Advice
 description: A practical workflow for career inventories, company research, and targeted resumes.
-theme: jekyll-theme-midnight
+remote_theme: pages-themes/midnight@v0.2.0
 markdown: kramdown
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
 relative_links:
   enabled: true

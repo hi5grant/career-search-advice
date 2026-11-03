@@ -8,14 +8,17 @@ A targeted resume should be selective, not fictional. The master inventory remai
 
 ## Workflow
 
-1. Save the job description and source URL.
-2. Extract responsibilities, required skills, and seniority signals.
-3. Compare each requirement with the inventory.
-4. Identify direct matches, transferable evidence, gaps, and unresolved claims.
-5. Ask the candidate about material uncertainties before drafting.
-6. Select relevant projects and outcomes.
-7. Draft a concise, ATS-readable resume.
-8. Review every claim for accuracy and interview defensibility.
+1. Open the specific opportunity folder under `companies/<Company Name>/job-roles/`.
+2. Save the job description and source URL in that folder's `job-posting.md`.
+3. Extract responsibilities, required skills, and seniority signals.
+4. Compare each requirement with the inventory.
+5. Identify direct matches, transferable evidence, gaps, and unresolved claims.
+6. Ask the candidate about material uncertainties before drafting.
+7. Select relevant projects and outcomes. Use a company-level base resume as a starting point only when it is relevant.
+8. Draft a concise, ATS-readable resume and save it inside the exact opportunity folder.
+9. Review every claim for accuracy and interview defensibility.
+
+Do not save one generic "latest resume" over the top of previous applications. Each role needs a distinct, traceable version. Company base resumes are reusable starting points; role-specific resumes are the final application artifacts.
 
 ## Writing rules
 
